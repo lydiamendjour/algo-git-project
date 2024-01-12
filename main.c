@@ -1,3 +1,4 @@
+//my code starts here 
 #include "raylib.h"
 #include <stdio.h>
 #include <stdlib.h>
@@ -11,3 +12,4 @@ typedef struct Node {
 
 Node* head = NULL;
 Node* deletedNodes = NULL;
+//functions 
